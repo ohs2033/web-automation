@@ -1,0 +1,10 @@
+{
+  "name": "hyeonsoo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "ohs2033@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "selenium-webdriver": "^4.0.0-alpha.1"
+  }
+}
